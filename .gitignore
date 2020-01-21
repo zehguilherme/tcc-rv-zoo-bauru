@@ -1,0 +1,37 @@
+# Blender
+*.blend
+*.blend1
+*.blend.x
+
+# X3d
+*.x3d
+
+# Unity
+*.unitypackage
+
+# Imagens
+*.png
+*.jpg
+*.raw
+*.tiff
+*.jpeg
+
+# Outros aquivos
+*.3ds
+*.mtl
+*.obj
+*.dxf
+*.lwo
+*.tif
+*.dae
+*.fbx
+*.max
+*.bmp
+*.3dc
+*.pov
+*.txt
+*.gsm
+*.tga
+
+# Pastas específicas
+
