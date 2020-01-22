@@ -1,5 +1,5 @@
 # tcc-rv-zoo-bauru
-TCC Modelagem do Zoológico de Bauru - USC
+TCC Modelagem do Zoológico de Bauru - Centro Universitário Sagrado Coração (Unisagrado) - Bauru/SP
 
 Arquivos pesando 2 GB aproximadamente. (ultrapassa o máximo permitido pelo Github).
 
