@@ -13,11 +13,11 @@
 
 ### - Recinto dos répteis
 
-![Recinto dos répteis](https://github.com/zehguilherme/tcc-rv-zoo-bauru/blob/master/image.png)
+![Recinto dos répteis](https://github.com/zehguilherme/tcc-rv-zoo-bauru/blob/master/imagens/repteis.png)
 
 
 ### - Refeitório
 
-![Refeitório 1](https://github.com/zehguilherme/tcc-rv-zoo-bauru/blob/master/Refeitorio%202.PNG)
+![Refeitório 1](https://github.com/zehguilherme/tcc-rv-zoo-bauru/blob/master/imagens/Refeitorio%202.PNG)
 
-![Refeitório 2](https://github.com/zehguilherme/tcc-rv-zoo-bauru/blob/master/Refeitorio%204.PNG)
+![Refeitório 2](https://github.com/zehguilherme/tcc-rv-zoo-bauru/blob/master/imagens/Refeitorio%204.PNG)
