@@ -10,11 +10,12 @@
 *.unitypackage
 
 # Imagens
-*.png
-*.jpg
-*.raw
-*.tiff
-*.jpeg
+Blender/*/*/*.png
+Blender/*/*.jpg
+Blender/*/*/*.JPG
+Blender/*/*/*.raw
+Blender/*/*/*.tiff
+Blender/*/*.jpeg
 
 # Outros aquivos 3D
 *.3ds
@@ -35,3 +36,5 @@
 
 # Pastas específicas
 .t/
+Arquivos não usados - alguns sim/
+Imagens usadas TCC/
