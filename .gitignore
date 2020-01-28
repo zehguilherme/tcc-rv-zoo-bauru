@@ -16,7 +16,7 @@
 *.tiff
 *.jpeg
 
-# Outros aquivos
+# Outros aquivos 3D
 *.3ds
 *.mtl
 *.obj
@@ -34,3 +34,4 @@
 *.tga
 
 # Pastas específicas
+.t/
