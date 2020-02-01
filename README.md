@@ -3,7 +3,7 @@
 - [TCC completo - PDF](https://github.com/zehguilherme/tcc-rv-zoo-bauru/blob/master/JOS%C3%89_GUILHERME_PARO_MONTEIRO_TOMAINE_860582.pdf)
 - [Site do Zoológico](http://zoobauru.com.br/)
 
-## Tecnologias usadas:
+## Tecnologias usadas :computer: :
 
 - [Blender](https://www.blender.org/) - Modelador 3D
 - [Blend4web](https://www.blend4web.com/en/) - Framework web
@@ -11,7 +11,7 @@
 
 ## Alguns locais e recintos (jaulas) presentes no projeto:
 
-### - Recinto dos Répteis
+### - Recinto dos Répteis :snake:
 
 ![Recinto dos répteis 1](https://github.com/zehguilherme/tcc-rv-zoo-bauru/blob/master/imagens/repteis/repteis_1.png)
 
@@ -38,7 +38,7 @@
 ![Corujas 3](https://github.com/zehguilherme/tcc-rv-zoo-bauru/blob/master/imagens/corujas/Corujas_5.PNG)
 
 
-### - Recinto dos Macacos
+### - Recinto dos Macacos :monkey_face:
 
 ![Macacos 1](https://github.com/zehguilherme/tcc-rv-zoo-bauru/blob/master/imagens/macacos/Jaula_macacos_2.PNG)
 
@@ -47,7 +47,7 @@
 ![Macacos 3](https://github.com/zehguilherme/tcc-rv-zoo-bauru/blob/master/imagens/macacos/Jaula_macacos_4.PNG)
 
 
-### - Recinto dos Pinguins
+### - Recinto dos Pinguins :penguin:
 
 ![Pinguins 1](https://github.com/zehguilherme/tcc-rv-zoo-bauru/blob/master/imagens/pinguins/Pinguins_3.PNG)
 
