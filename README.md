@@ -3,7 +3,7 @@
 - [TCC completo - PDF](https://github.com/zehguilherme/tcc-rv-zoo-bauru/blob/master/JOS%C3%89_GUILHERME_PARO_MONTEIRO_TOMAINE_860582.pdf)
 - [Site do Zoológico](http://zoobauru.com.br/)
 
-<h2 align="center">Tecnologias usadas :computer: :</h2>
+<h2 align="center">Tecnologias usadas :computer:</h2>
 
 - [Blender](https://www.blender.org/) - Modelador 3D
 - [Blend4web](https://www.blend4web.com/en/) - Framework web
