@@ -19,8 +19,9 @@
 
 ![Recinto dos répteis 3](https://github.com/zehguilherme/tcc-rv-zoo-bauru/blob/master/imagens/repteis/Repteis_7.PNG)
 
+--------------------------------------------------------------------
 
-<h3 align="center">Refeitório</h3>
+<h3 align="center">Refeitório :hamburger:</h3>
 
 ![Refeitório 1](https://github.com/zehguilherme/tcc-rv-zoo-bauru/blob/master/imagens/refeitorio/Refeitorio_2.PNG)
 
@@ -28,8 +29,9 @@
 
 ![Refeitório 3](https://github.com/zehguilherme/tcc-rv-zoo-bauru/blob/master/imagens/refeitorio/Refeitorio_5.PNG)
 
+--------------------------------------------------------------------
 
-<h3 align="center">Recinto das Corujas</h3>
+<h3 align="center">Recinto das Corujas :owl:</h3>
 
 ![Corujas 1](https://github.com/zehguilherme/tcc-rv-zoo-bauru/blob/master/imagens/corujas/Coruja_3.PNG)
 
@@ -37,6 +39,7 @@
 
 ![Corujas 3](https://github.com/zehguilherme/tcc-rv-zoo-bauru/blob/master/imagens/corujas/Corujas_5.PNG)
 
+--------------------------------------------------------------------
 
 <h3 align="center">Recinto dos Macacos :monkey_face:</h3>
 
@@ -46,6 +49,7 @@
 
 ![Macacos 3](https://github.com/zehguilherme/tcc-rv-zoo-bauru/blob/master/imagens/macacos/Jaula_macacos_4.PNG)
 
+--------------------------------------------------------------------
 
 <h3 align="center">Recinto dos Pinguins :penguin:</h3>
 
