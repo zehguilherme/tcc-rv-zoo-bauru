@@ -3,11 +3,19 @@
 - [TCC completo - PDF](https://github.com/zehguilherme/tcc-rv-zoo-bauru/blob/master/JOS%C3%89_GUILHERME_PARO_MONTEIRO_TOMAINE_860582.pdf)
 - [Site do Zoológico](http://zoobauru.com.br/)
 
-<h2 align="center">Tecnologias usadas :computer:</h2>
+<h2>Tecnologias usadas :computer:</h2>
 
 - [Blender](https://www.blender.org/) - Modelador 3D
 - [Blend4web](https://www.blend4web.com/en/) - Framework web
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) - Linguagem ao qual foram convertidos todos os modelos 3D (.blend)
+
+<h2>Utilização:</h2>
+
+- Vá até a pasta `web` em `blender/web` e abra o arquivo `Zoológico.html` (Arquivo principal).
+
+- Será mostrado em tela toda a "maquete" inicial do local, e ao dar zoom poderá ser verificado a exitência de várias placas, em que ao clicar sobre cada uma delas, o usuário será redirecionado para a jaula/local indicado.
+
+- Estando no novo local ele pode explorá-lo e ao desejar voltar para o arquivo principal, basta clicar na placa `Voltar`.
 
 <h2>Alguns locais e recintos (jaulas) presentes no projeto:<h2>
 
