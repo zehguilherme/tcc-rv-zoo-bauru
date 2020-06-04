@@ -9,14 +9,6 @@
     <h4>Bauru / SP</h4>
 </div>
 
-<p align="center">
-    <a href="#📁-arquivo-do-tcc">Arquivo do TCC</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#📌-sobre-o-zoológico">Sobre o zoológico</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#🚀-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#✍-utilização">Utilização</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#📍-alguns-locais-presentes-no-projeto">Alguns locais presentes no projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
-
 ## 📁 Arquivo do TCC
 - [TCC (PDF)](https://github.com/zehguilherme/tcc-rv-zoo-bauru/blob/master/JOS%C3%89_GUILHERME_PARO_MONTEIRO_TOMAINE_860582.pdf)
 
