@@ -94,4 +94,10 @@ Saiba mais no [site](http://zoobauru.com.br/) do próprio zoológico.
 
 ---
 
+## 📝 Licensa
+
+Este projeto está sob a licensa MIT. Veja a [licença](LICENSE) para mais informações.
+
+---
+
 Feito com 💟 por José Guilherme Paro Monteiro Tomaine 👋 [Fale comigo!](https://www.linkedin.com/in/jos%C3%A9-guilherme-paro-monteiro-tomaine/)
