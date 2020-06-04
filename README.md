@@ -42,7 +42,7 @@ Saiba mais no [site](http://zoobauru.com.br/) do próprio zoológico.
 
 ![Recinto dos répteis 2](imagens/repteis/Repteis_6.PNG)
 
-![Recinto dos répteis 3](imagens\repteis\Repteis_7.PNG)
+![Recinto dos répteis 3](imagens/repteis/Repteis_7.PNG)
 
 ---
 
@@ -50,11 +50,11 @@ Saiba mais no [site](http://zoobauru.com.br/) do próprio zoológico.
    🍔 Refeitório
 </h3>
 
-![Refeitório 1](imagens\refeitorio\Refeitorio_2.PNG)
+![Refeitório 1](imagens/refeitorio/Refeitorio_2.PNG)
 
-![Refeitório 2](imagens\refeitorio\Refeitorio_4.PNG)
+![Refeitório 2](imagens/refeitorio/Refeitorio_4.PNG)
 
-![Refeitório 3](imagens\refeitorio\Refeitorio_5.PNG)
+![Refeitório 3](imagens/refeitorio/Refeitorio_5.PNG)
 
 ---
 
@@ -62,11 +62,11 @@ Saiba mais no [site](http://zoobauru.com.br/) do próprio zoológico.
 🦉 Recinto das Corujas
 </h3>
 
-![Corujas 1](imagens\corujas\Coruja_3.PNG)
+![Corujas 1](imagens/corujas/Coruja_3.PNG)
 
-![Corujas 2](imagens\corujas\Corujas_4.PNG)
+![Corujas 2](imagens/corujas/Corujas_4.PNG)
 
-![Corujas 3](imagens\corujas\Corujas_5.PNG)
+![Corujas 3](imagens/corujas/Corujas_5.PNG)
 
 ---
 
@@ -74,11 +74,11 @@ Saiba mais no [site](http://zoobauru.com.br/) do próprio zoológico.
    🐵 Recinto dos Macacos
 </h3>
 
-![Macacos 1](imagens\macacos\Jaula_macacos_2.PNG)
+![Macacos 1](imagens/macacos/Jaula_macacos_2.PNG)
 
-![Macacos 2](imagens\macacos\Jaula_macacos_3.PNG)
+![Macacos 2](imagens/macacos/Jaula_macacos_3.PNG)
 
-![Macacos 3](imagens\macacos\Jaula_macacos_4.PNG)
+![Macacos 3](imagens/macacos/Jaula_macacos_4.PNG)
 
 ---
 
@@ -86,11 +86,11 @@ Saiba mais no [site](http://zoobauru.com.br/) do próprio zoológico.
    🐧 Recinto dos Pinguins
 </h3>
 
-![Pinguins 1](imagens\pinguins\Pinguins_3.PNG)
+![Pinguins 1](imagens/pinguins/Pinguins_3.PNG)
 
-![Pinguins 2](imagens\pinguins\Pinguins_4.PNG)
+![Pinguins 2](imagens/pinguins/Pinguins_4.PNG)
 
-![Pinguins 3](imagens\pinguins\Pinguins_5.PNG)
+![Pinguins 3](imagens/pinguins/Pinguins_5.PNG)
 
 ---
 
