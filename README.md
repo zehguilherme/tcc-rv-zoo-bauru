@@ -13,6 +13,7 @@
     <a href="#-sobre-o-zoológico">Sobre o zoológico</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-utilização">Utilização</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-apresentação-do-projeto">Apresentação do projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-alguns-locais-presentes-no-projeto">Alguns locais presentes no projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-licensa">Licensa</a>
@@ -40,6 +41,12 @@ Saiba mais no [site](http://zoobauru.com.br/) do próprio zoológico.
 - Será mostrado em tela toda a "maquete" inicial do local, e ao dar zoom poderá ser verificado a exitência de várias placas, em que ao clicar sobre cada uma delas, o usuário será redirecionado para a jaula/local indicado.
 
 - Estando no novo local ele pode explorá-lo e ao desejar voltar para o arquivo principal, basta clicar na placa `Voltar`.
+
+## 💻 Apresentação do projeto
+
+![Banner e computador](assets/apresentacao-1.jpg)
+
+![Banner](assets/apresentacao-2.jpg)
 
 ## 📍 Alguns locais presentes no projeto
 
