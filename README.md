@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://www2.bauru.sp.gov.br/arquivos/arquivos_site/sec_meioambiente/unidades_ambientais/zoologico.jpg" alt="Zoológico de Bauru" height="300">
+</p>
+
 <h1 align="center">
     TCC - Modelagem 3D do Zoológico de Bauru
 </h1>
@@ -7,6 +11,15 @@
         <a href="https://unisagrado.edu.br/">Centro Universitário Sagrado Coração - Bauru / SP</a>
     </h4>
 </div>
+
+<p align="center">
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/zehguilherme/tcc-rv-zoo-bauru">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/zehguilherme/tcc-rv-zoo-bauru">
+    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/zehguilherme/tcc-rv-zoo-bauru">
+    <a href="https://www.codacy.com/manual/zehguilherme/tcc-rv-zoo-bauru?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=zehguilherme/tcc-rv-zoo-bauru&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/4a6772f3bef148778cd6c0665d04dbcc"/></a>
+    <img alt="GitHub" src="https://img.shields.io/github/license/zehguilherme/tcc-rv-zoo-bauru">
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/zehguilherme/tcc-rv-zoo-bauru?style=social">
+</p>
 
 <p align="center">
     <a href="#-arquivo-do-tcc">Arquivo do TCC</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
