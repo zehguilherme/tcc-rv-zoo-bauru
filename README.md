@@ -20,6 +20,9 @@
 </p>
 
 ## 📁 Arquivo do TCC
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7f5cdf0ca65a4c138309bf385183de59)](https://app.codacy.com/manual/zehguilherme/tcc-rv-zoo-bauru?utm_source=github.com&utm_medium=referral&utm_content=zehguilherme/tcc-rv-zoo-bauru&utm_campaign=Badge_Grade_Dashboard)
+
 - [TCC (PDF)](https://github.com/zehguilherme/tcc-rv-zoo-bauru/blob/master/JOS%C3%89_GUILHERME_PARO_MONTEIRO_TOMAINE_860582.pdf)
 
 ## 📌 Sobre o zoológico
