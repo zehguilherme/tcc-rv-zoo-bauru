@@ -9,6 +9,16 @@
     <h4>Bauru / SP</h4>
 </div>
 
+<p align="center">
+    <a href="#-arquivo-do-tcc">Arquivo do TCC</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-sobre-o-zoológico">Sobre o zoológico</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-utilização">Utilização</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-alguns-locais-presentes-no-projeto">Alguns locais presentes no projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-licensa">Licensa</a>
+</p>
+
 ## 📁 Arquivo do TCC
 - [TCC (PDF)](https://github.com/zehguilherme/tcc-rv-zoo-bauru/blob/master/JOS%C3%89_GUILHERME_PARO_MONTEIRO_TOMAINE_860582.pdf)
 
@@ -92,11 +102,18 @@ Saiba mais no [site](http://zoobauru.com.br/) do próprio zoológico.
 
 ![Pinguins 3](imagens/pinguins/Pinguins_5.PNG)
 
----
+## 🤔 Como contribuir
+
+1. Faça um fork desse repositório;
+2. Crie uma branch com a sua feature: `git checkout -b minha-feature`;
+3. Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
+4. Faça push para a sua branch: `git push origin minha-feature`;
+5. Crie um pull request;
+6. Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
 ## 📝 Licensa
 
-Este projeto está sob a licensa MIT. Veja a [licença](LICENSE) para mais informações.
+Este projeto está sob a licensa MIT. Veja a [licensa](LICENSE) para mais informações.
 
 ---
 
