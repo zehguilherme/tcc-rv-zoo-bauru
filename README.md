@@ -12,6 +12,14 @@
     </h4>
 </div>
 
+<div align="center">
+    <a href="README.md">Português</a>
+    ·
+    <a href="README-en.md">English</a>
+</div>
+
+<br>
+
 <p align="center">
     <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/zehguilherme/tcc-rv-zoo-bauru">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/zehguilherme/tcc-rv-zoo-bauru">
@@ -27,7 +35,7 @@
     <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-utilização">Utilização</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-apresentação-do-projeto">Apresentação do projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-alguns-locais-presentes-no-projeto">Alguns locais presentes no projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-alguns-locais-presentes">Alguns locais presentes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-licensa">Licensa</a>
 </p>
@@ -51,7 +59,7 @@ Saiba mais no [site](http://zoobauru.com.br/) do próprio zoológico.
 
 - Vá até a pasta `web` em `blender/web` e abra o arquivo `Zoológico.html` (Arquivo principal).
 
-- Será mostrado em tela toda a "maquete" inicial do local, e ao dar zoom poderá ser verificado a exitência de várias placas, em que ao clicar sobre cada uma delas, o usuário será redirecionado para a jaula/local indicado.
+- Será mostrado em tela toda a "maquete" inicial do local, e ao dar zoom poderá ser verificado a existência de várias placas, em que ao clicar sobre cada uma delas, o usuário será redirecionado para a jaula/local indicado.
 
 - Estando no novo local ele pode explorá-lo e ao desejar voltar para o arquivo principal, basta clicar na placa `Voltar`.
 
@@ -61,7 +69,7 @@ Saiba mais no [site](http://zoobauru.com.br/) do próprio zoológico.
 
 ![Banner](assets/apresentacao-2.jpg)
 
-## 📍 Alguns locais presentes no projeto
+## 📍 Alguns locais presentes
 
 <h3 align="center">
    🐍 Recinto dos Répteis
