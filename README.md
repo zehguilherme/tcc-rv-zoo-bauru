@@ -8,7 +8,7 @@
 
 <div align="center">
     <h4>
-        <a href="https://unisagrado.edu.br/">Centro Universitário Sagrado Coração - Bauru / SP</a>
+        <a target="_blank" href="https://unisagrado.edu.br/">Centro Universitário Sagrado Coração - Bauru / SP</a>
     </h4>
 </div>
 
