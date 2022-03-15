@@ -24,22 +24,7 @@
     <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/zehguilherme/tcc-rv-zoo-bauru">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/zehguilherme/tcc-rv-zoo-bauru">
     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/zehguilherme/tcc-rv-zoo-bauru">
-    <a href="https://www.codacy.com/manual/zehguilherme/tcc-rv-zoo-bauru?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=zehguilherme/tcc-rv-zoo-bauru&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/4a6772f3bef148778cd6c0665d04dbcc"/></a>
     <img alt="GitHub" src="https://img.shields.io/github/license/zehguilherme/tcc-rv-zoo-bauru">
-    <img alt="GitHub forks" src="https://img.shields.io/github/forks/zehguilherme/tcc-rv-zoo-bauru?style=social">
-</p>
-
-
-
-<p align="center">
-    <a href="#-written-work">Written work</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-about-the-zoo">About the zoo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-use">Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-project-presentation">Project presentation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-some-locations-present">Some locations present</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-contributing">Contributing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-license">License</a>
 </p>
 
 ## 📁 Written work
