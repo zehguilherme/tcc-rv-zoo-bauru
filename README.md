@@ -24,20 +24,7 @@
     <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/zehguilherme/tcc-rv-zoo-bauru">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/zehguilherme/tcc-rv-zoo-bauru">
     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/zehguilherme/tcc-rv-zoo-bauru">
-    <a href="https://www.codacy.com/manual/zehguilherme/tcc-rv-zoo-bauru?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=zehguilherme/tcc-rv-zoo-bauru&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/4a6772f3bef148778cd6c0665d04dbcc"/></a>
     <img alt="GitHub" src="https://img.shields.io/github/license/zehguilherme/tcc-rv-zoo-bauru">
-    <img alt="GitHub forks" src="https://img.shields.io/github/forks/zehguilherme/tcc-rv-zoo-bauru?style=social">
-</p>
-
-<p align="center">
-    <a href="#-arquivo-do-tcc">Arquivo do TCC</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-sobre-o-zoológico">Sobre o zoológico</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-utilização">Utilização</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-apresentação-do-projeto">Apresentação do projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-alguns-locais-presentes">Alguns locais presentes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-licensa">Licensa</a>
 </p>
 
 ## 📁 Arquivo do TCC
