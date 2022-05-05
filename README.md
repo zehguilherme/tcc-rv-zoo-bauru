@@ -21,9 +21,7 @@
 <br>
 
 <p align="center">
-    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/zehguilherme/tcc-rv-zoo-bauru">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/zehguilherme/tcc-rv-zoo-bauru">
-    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/zehguilherme/tcc-rv-zoo-bauru">
     <img alt="GitHub" src="https://img.shields.io/github/license/zehguilherme/tcc-rv-zoo-bauru">
 </p>
 
