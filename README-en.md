@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-    Completion of Course Work - 3D modeling of the Bauru Zoo
+    Completion of Course Work - 3D Modeling of the Bauru Zoo
 </h1>
 
 <div align="center">
