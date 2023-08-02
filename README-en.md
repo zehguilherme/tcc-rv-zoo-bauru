@@ -42,7 +42,7 @@ Find out more at the zoo's [website](http://zoobauru.com.br/)
 
 ## ✍ Use
 
-- Go to the `web` folder in `blender / web` and open the file `Zoológico.html` (Main file).
+- Go to the `web` folder in `blender / web` and open the file `index.html`.
 
 - The entire initial "model" of the site will be shown on the screen, and when zooming in, it will be possible to check the existence of several signs, in which when clicking on each of them, the user will be redirected to the indicated cage / location.
 
