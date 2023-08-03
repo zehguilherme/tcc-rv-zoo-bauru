@@ -42,11 +42,7 @@ Saiba mais no [site](http://zoobauru.com.br/) do próprio zoológico.
 
 ## ✍ Utilização
 
-- Vá até a pasta `web` em `blender/web` e abra o arquivo `Zoológico.html` (Arquivo principal).
-
-- Será mostrado em tela toda a "maquete" inicial do local, e ao dar zoom poderá ser verificado a existência de várias placas, em que ao clicar sobre cada uma delas, o usuário será redirecionado para a jaula/local indicado.
-
-- Estando no novo local ele pode explorá-lo e ao desejar voltar para o arquivo principal, basta clicar na placa `Voltar`.
+- Acesse o site por esse [link](https://zoobauru3d.vercel.app/).
 
 ## 💻 Apresentação do projeto
 
