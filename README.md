@@ -42,7 +42,7 @@ Saiba mais no [site](http://zoobauru.com.br/) do próprio zoológico.
 
 ## ✍ Utilização
 
-- Acesse o site por esse [link](https://zoobauru3d.vercel.app/).
+- Acesse o site por esse [link](https://zoobauru.vercel.app/).
 
 ## 💻 Apresentação do projeto
 
