@@ -42,7 +42,7 @@ Find out more at the zoo's [website](http://zoobauru.com.br/)
 
 ## ✍ Use
 
-- Access the website through this [link](https://zoobauru3d.vercel.app/).
+- Access the website through this [link](https://zoobauru.vercel.app/).
 
 ## 💻 Project presentation
 
