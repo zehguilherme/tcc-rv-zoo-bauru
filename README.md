@@ -25,6 +25,12 @@
     <img alt="GitHub" src="https://img.shields.io/github/license/zehguilherme/tcc-rv-zoo-bauru">
 </p>
 
+## 💬 Descrição
+
+Este repositório reune o PDF contendo a parte escrita do meu trabalho de conclusão de curso e os arquivos 3D utilizados no projeto prático.
+O tema do trabalho é relacionado ao estudo da Realidade Virtual. Suas principais características, detalhes e afins.
+O projeto prático consiste na representação por completo do Zoológico de Bauru/SP em 3D.
+
 ## 📁 Arquivo do TCC
 - [TCC (PDF)](https://github.com/zehguilherme/tcc-rv-zoo-bauru/blob/master/JOS%C3%89_GUILHERME_PARO_MONTEIRO_TOMAINE_860582.pdf)
 
