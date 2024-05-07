@@ -25,6 +25,12 @@
     <img alt="GitHub" src="https://img.shields.io/github/license/zehguilherme/tcc-rv-zoo-bauru">
 </p>
 
+## 💬 Description
+
+This repository brings together the PDF containing the written part of my course conclusion work and the 3D files used in the practical project.
+The theme of the work is related to the study of Virtual Reality. Its main characteristics, details and the like.
+The practical project consists of the complete representation of the Bauru/SP Zoo in 3D.
+
 ## 📁 Written work
 - [PDF](https://github.com/zehguilherme/tcc-rv-zoo-bauru/blob/master/JOS%C3%89_GUILHERME_PARO_MONTEIRO_TOMAINE_860582.pdf)
 
