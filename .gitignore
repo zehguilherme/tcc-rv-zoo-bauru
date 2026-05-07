@@ -39,3 +39,6 @@ Blender/*/*.jpeg
 Arquivos não usados - alguns sim/
 Imagens usadas TCC/
 porta/
+
+# playwright
+.playwright-mcp/
